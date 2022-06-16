@@ -36,5 +36,4 @@ C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicdd
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\obj\Debug\net5.0\corewebappjenkinscicddemo.genruntimeconfig.cache
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\obj\Debug\net5.0\corewebappjenkinscicddemo.csproj.CopyComplete
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\bin\Debug\net5.0\ref\corewebappjenkinscicddemo.dll
-C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\obj\Debug\net5.0\corewebappjenkinscicddemo.csprojAssemblyReference.cache
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\obj\Debug\net5.0\staticwebassets\corewebappjenkinscicddemo.StaticWebAssets.xml
