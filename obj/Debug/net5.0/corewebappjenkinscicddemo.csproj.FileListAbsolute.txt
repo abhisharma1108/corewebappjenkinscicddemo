@@ -5,7 +5,6 @@ C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicdd
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\bin\Debug\net5.0\corewebappjenkinscicddemo.runtimeconfig.json
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\bin\Debug\net5.0\corewebappjenkinscicddemo.runtimeconfig.dev.json
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\bin\Debug\net5.0\corewebappjenkinscicddemo.dll
-C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\bin\Debug\net5.0\ref\corewebappjenkinscicddemo.dll
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\bin\Debug\net5.0\corewebappjenkinscicddemo.pdb
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\bin\Debug\net5.0\corewebappjenkinscicddemo.Views.dll
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\bin\Debug\net5.0\corewebappjenkinscicddemo.Views.pdb
@@ -17,7 +16,6 @@ C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicdd
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\obj\Debug\net5.0\corewebappjenkinscicddemo.RazorAssemblyInfo.cache
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\obj\Debug\net5.0\corewebappjenkinscicddemo.RazorAssemblyInfo.cs
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\obj\Debug\net5.0\staticwebassets\corewebappjenkinscicddemo.StaticWebAssets.Manifest.cache
-C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\obj\Debug\net5.0\staticwebassets\corewebappjenkinscicddemo.StaticWebAssets.xml
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\obj\Debug\net5.0\scopedcss\bundle\corewebappjenkinscicddemo.styles.css
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\obj\Debug\net5.0\corewebappjenkinscicddemo.TagHelpers.input.cache
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\obj\Debug\net5.0\corewebappjenkinscicddemo.TagHelpers.output.cache
@@ -37,3 +35,6 @@ C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicdd
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\obj\Debug\net5.0\corewebappjenkinscicddemo.pdb
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\obj\Debug\net5.0\corewebappjenkinscicddemo.genruntimeconfig.cache
 C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\obj\Debug\net5.0\corewebappjenkinscicddemo.csproj.CopyComplete
+C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\bin\Debug\net5.0\ref\corewebappjenkinscicddemo.dll
+C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\obj\Debug\net5.0\corewebappjenkinscicddemo.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\GN22ADMDNFS001\CORE\corewebappjenkinscicddemo\obj\Debug\net5.0\staticwebassets\corewebappjenkinscicddemo.StaticWebAssets.xml

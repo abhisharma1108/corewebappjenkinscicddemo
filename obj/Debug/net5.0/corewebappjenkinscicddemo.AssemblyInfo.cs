@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("78e6ca65-747e-4799-9e0a-6de8624b76ea")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("corewebappjenkinscicddemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
